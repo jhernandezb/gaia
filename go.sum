@@ -125,9 +125,8 @@ github.com/coreos/go-systemd v0.0.0-20180511133405-39ca1b05acc7/go.mod h1:F5haX7
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/coreos/pkg v0.0.0-20160727233714-3ac0863d7acf/go.mod h1:E3G3o1h8I7cfcXa63jLwjI0eiQQMgzzUDFVpN/nH/eA=
 github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f/go.mod h1:E3G3o1h8I7cfcXa63jLwjI0eiQQMgzzUDFVpN/nH/eA=
+github.com/cosmos/cosmos-sdk v0.42.0-alpha1.0.20210301172302-05ce78935a9b h1:zKLvd77wFDC+1mcSOW0sZ3TYYWLcj+GmMwneI+SLkOA=
 github.com/cosmos/cosmos-sdk v0.42.0-alpha1.0.20210301172302-05ce78935a9b/go.mod h1:7mfToqDfAuY5qgVxJaB5DKksOIewhoFMPDEjV/4cu8A=
-github.com/cosmos/cosmos-sdk v0.42.0-alpha1.0.20210309095152-24ed401c81e8 h1:aG3HXU4ogR0c2mNVRMUAJ0SO9ojI2peuMuHVGeCZSgA=
-github.com/cosmos/cosmos-sdk v0.42.0-alpha1.0.20210309095152-24ed401c81e8/go.mod h1:7mfToqDfAuY5qgVxJaB5DKksOIewhoFMPDEjV/4cu8A=
 github.com/cosmos/go-bip39 v0.0.0-20180819234021-555e2067c45d/go.mod h1:tSxLoYXyBmiFeKpvmq4dzayMdCjCnu8uqmCysIGBT2Y=
 github.com/cosmos/go-bip39 v1.0.0 h1:pcomnQdrdH22njcAatO0yWojsUnCO3y2tNoV1cb6hHY=
 github.com/cosmos/go-bip39 v1.0.0/go.mod h1:RNJv0H/pOIVgxw6KS7QeX2a0Uo0aKUlfhZ4xuwvCdJw=
@@ -135,8 +134,8 @@ github.com/cosmos/iavl v0.15.0-rc3.0.20201009144442-230e9bdf52cd/go.mod h1:3xOIa
 github.com/cosmos/iavl v0.15.0-rc5/go.mod h1:WqoPL9yPTQ85QBMT45OOUzPxG/U/JcJoN7uMjgxke/I=
 github.com/cosmos/iavl v0.15.3 h1:xE9r6HW8GeKeoYJN4zefpljZ1oukVScP/7M8oj6SUts=
 github.com/cosmos/iavl v0.15.3/go.mod h1:OLjQiAQ4fGD2KDZooyJG9yz+p2ao2IAYSbke8mVvSA4=
-github.com/cosmos/ibc-go v0.0.0-20210312172444-333c1f338b2a h1:cTHOj76L0fuBm+Y1ay7q52qxmNvkBC7AERBMp/CaxE0=
-github.com/cosmos/ibc-go v0.0.0-20210312172444-333c1f338b2a/go.mod h1:5xRwMfINfSn6pyvyYp7dXuxOsoIyqg7ulZIfOpaWDFo=
+github.com/cosmos/ibc-go v0.0.0-20210325105830-372eaa42a908 h1:Ks88/i0EGAQQe2ZcXuNzSAh/KXmarfAjxogBHzEx6U0=
+github.com/cosmos/ibc-go v0.0.0-20210325105830-372eaa42a908/go.mod h1:cSDF3SbLsZarOmXZ1DDqa0XHS7O+WcIYmameYPYY2po=
 github.com/cosmos/ledger-cosmos-go v0.11.1 h1:9JIYsGnXP613pb2vPjFeMMjBI5lEDsEaF6oYorTy6J4=
 github.com/cosmos/ledger-cosmos-go v0.11.1/go.mod h1:J8//BsAGTo3OC/vDLjMRFLW6q0WAaXvHnVc7ZmE8iUY=
 github.com/cosmos/ledger-go v0.9.2 h1:Nnao/dLwaVTk1Q5U9THldpUMMXU94BOTWPddSmVB6pI=
@@ -567,8 +566,9 @@ github.com/prometheus/common v0.9.1/go.mod h1:yhUN8i9wzaXS3w1O07YhxHEBxD+W35wd8b
 github.com/prometheus/common v0.10.0/go.mod h1:Tlit/dnDKsSWFlCLTWaA1cyBgKHSMdTB80sz/V91rCo=
 github.com/prometheus/common v0.14.0/go.mod h1:U+gB1OBLb1lF3O42bTCL+FK18tX9Oar16Clt/msog/s=
 github.com/prometheus/common v0.15.0/go.mod h1:U+gB1OBLb1lF3O42bTCL+FK18tX9Oar16Clt/msog/s=
-github.com/prometheus/common v0.18.0 h1:WCVKW7aL6LEe1uryfI9dnEc2ZqNB1Fn0ok930v0iL1Y=
 github.com/prometheus/common v0.18.0/go.mod h1:U+gB1OBLb1lF3O42bTCL+FK18tX9Oar16Clt/msog/s=
+github.com/prometheus/common v0.19.0 h1:Itb4+NjG9wRdkAWgVucbM/adyIXxEhbw0866e0uZE6A=
+github.com/prometheus/common v0.19.0/go.mod h1:U+gB1OBLb1lF3O42bTCL+FK18tX9Oar16Clt/msog/s=
 github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/prometheus/procfs v0.0.0-20190117184657-bf6a532e95b1/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/prometheus/procfs v0.0.0-20190507164030-5867b95ac084/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
@@ -670,8 +670,9 @@ github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c h1:g+WoO5jjkqGAzH
 github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c/go.mod h1:ahpPrc7HpcfEWDQRZEmnXMzHY03mLDYMCxeDzy46i+8=
 github.com/tendermint/btcd v0.1.1 h1:0VcxPfflS2zZ3RiOAHkBiFUcPvbtRj5O7zHmcJWHV7s=
 github.com/tendermint/btcd v0.1.1/go.mod h1:DC6/m53jtQzr/NFmMNEu0rxf18/ktVoVtMrnDD5pN+U=
-github.com/tendermint/cosmos-rosetta-gateway v0.3.0-rc2 h1:crekJuQ57yIBDuKd3/dMJ00ZvOHURuv9RGJSi2hWTW4=
 github.com/tendermint/cosmos-rosetta-gateway v0.3.0-rc2/go.mod h1:gBPw8WV2Erm4UGHlBRiM3zaEBst4bsuihmMCNQdgP/s=
+github.com/tendermint/cosmos-rosetta-gateway v0.3.0-rc2.0.20210304154332-87d6ca4410df h1:hoMLrOS4WyyMM+Y+iWdGu94o0zzp6Q43y7v89Q1/OIw=
+github.com/tendermint/cosmos-rosetta-gateway v0.3.0-rc2.0.20210304154332-87d6ca4410df/go.mod h1:gBPw8WV2Erm4UGHlBRiM3zaEBst4bsuihmMCNQdgP/s=
 github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15 h1:hqAk8riJvK4RMWx1aInLzndwxKalgi5rTqgfXxOxbEI=
 github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15/go.mod h1:z4YtwM70uOnk8h0pjJYlj3zdYwi9l03By6iAIF5j/Pk=
 github.com/tendermint/go-amino v0.16.0 h1:GyhmgQKvqF82e2oZeuMSp9JTN0N09emoSZlb2lyGa2E=
